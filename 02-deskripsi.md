@@ -4,5 +4,3 @@
 <p>Ansible juga cukup aman digunakan karena script ansible dapat di encrypt sehingga hanya orang tertentu yang dapat membuka dan menjalankan script ansible tersebut</p> 
 <p>Ansible dapat berjalan hanya dengan koneksi SSH dan tidak membutuhkan agent apapun untuk menjalankannya</p>
 <p>Namun untuk menjalankan ansible di server deployment minimal memiliki library python di dalam server deployment tersebut</p>
-<br>
-<p>Sumber: https://medium.com/@adisaputra.id/mengenal-ansible-fcdcece7425c</p>
