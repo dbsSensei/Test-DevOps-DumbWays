@@ -4,6 +4,7 @@
     <ul>
       <li>Kurikulum pelatihan IT Back-End Perbankan - Digitalent Kominfo</li>
       <li>https://medium.com/@adisaputra.id/mengenal-ansible-fcdcece7425c</li>
+       <li>https://svcministry.org/id/dictionary/what-is-the-difference-between-sql-and-nosql/</li>
     </ul>
   </li>
 </ol>
