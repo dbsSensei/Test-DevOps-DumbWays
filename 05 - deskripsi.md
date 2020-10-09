@@ -51,5 +51,3 @@
         pelanggan dalam sepersekian detik.
     </li>
 </ul>
-<br>
-<p>Sumber: https://svcministry.org/id/dictionary/what-is-the-difference-between-sql-and-nosql/</p>
